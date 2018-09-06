@@ -1,0 +1,1 @@
+s = input("Input a string: ")
